@@ -4,4 +4,4 @@
            I have also created a image classifier , which can clasify any type of images in it .
          
          You may also try your images from below fetched link,
-            "https://codepen.io/999-SANTY/pen/jOyZNYg"
+"https://codepen.io/999-SANTY/pen/jOyZNYg"
